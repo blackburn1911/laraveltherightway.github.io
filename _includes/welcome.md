@@ -1,30 +1,31 @@
-# Welcome
+# Bine ai venit
 
-_Disclaimer: Majority of the assets, design and format of this site is borrowed (forked might be the more better term) from the original [PHP : The Right Way](http://www.phptherightway.com/) site. The [original contributors](https://github.com/codeguy/php-the-right-way/graphs/contributors) is given all the credits due to them._
+_Nota: Majoritatea bunurilor, design-ul si formatul acestui site, sunt imprumutate ("forked" ar putea fi termenul cel mai bun) din site-ul original [PHP : The Right Way](http://www.phptherightway.com/). [Contribuitorii originali](https://github.com/codeguy/php-the-right-way/graphs/contributors) sunt creditati la sfarsitul acestei lucrari_
 
-This site serves as a guide for those who is using Laravel Framework by Taylor Otwell and its contributors. Laravel : The Right Way aims to put together all the resources and best practices in using the Laravel Framework.
+Acest site serveste ca un ghid pentru toti cei care folosesc Framework-ul Laravel creat de Taylor Otwell si contribuitorii. Laravel : The Right Way urmareste sa aduca impreuna toate resursele precum si cele mai folosite practici pentru folosirea framework-ului Laravel.
 
-Laravel Framework is not strict on how and where you define your classes as long as it could be loaded by Composer. This is a double-sided blade -- it's beneficial for advanced developers, but coud be confusing for beginners and for those who is trying to reverse engineer an existing codebase. The ability to place anything, anywhere is good. But there are times some methods is way better than the others, and that is what we are after. This site tried to collect all the best practices, tools and methodologies, so that it could serve a guide for beginners and existing developers alike.
+Framework-ul Laravel nu este strict cu locatia si modul in care va definiti clasele atata timp cat ele sunt incarcate de Composer. Este ca un cutit cu doua taisuri -- benefic pentru dezvoltatorii avansati, dar ar putea produce confuzie pentru incepatori si pentru cei care incarca sa depaneze codul. Abilitatea de a plasa orice, oriunde este foarte buna. Dar sunt momente cand unele metode sunt mai bune decat celelalte, si asta este ceea ce urmarim cu acest site. Acest site incearca sa va ofere cele mai folosite practici, unelte si metodologii, astfel incat sa serveasca ca un ghid pentru incepatori si pentru dezvoltatorii existenti deasemenea.
 
-This is a living document and will continue to be updated with more helpful information and examples as they become available.
+Acesta este un document “viu” și va continua să fie actualizat cu mai multe exemple și informații utile pe măsură ce ele devin disponibile.
 
-## Translations
+## Traduceri
 
-Laravel: The Right Way is currently only available in English language. Please contribute to the project so that it could support multiple languages.
+Laravel: The Right Way este in prezent disponibila doar in limba Engleza si Romana. Te rugam sa contribui la acest proiect astfel incat sa fie disponibil in mai multe limbi.
 
-* [English](http://www.laraveltherightway.com)
+* [Engleza](http://www.laraveltherightway.com)
 
 
-## How to Contribute
+## Cum să contribui
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
+Ajută-ne să facem acest website cea mai bună resursă pentru noii programatori PHP! [Contribuie pe GitHub][1]
 
-## Spread the Word!
+## Du vestea mai departe!
 
-_Laravel: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP developers
-know where to find good information!
+_Laravel: The Right Way_ are imagini banner pe care le poți folosi pe websiteul tău. Arată-ți susținerea și ajută-i pe dezvoltatorii PHP noi să afle unde să găsească informații de calitate!
 
-[See Banner Images][2]
+
+
+[Vezi imagini banner][2]
 
 [1]: https://github.com/laraveltherightway/laraveltherightway.github.io
 [2]: /banners.html
